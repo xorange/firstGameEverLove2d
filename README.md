@@ -10,6 +10,13 @@ GL HF.
 
 ## The Game
 
+How to run:
+
+1. install [love2d](https://love2d.org)
+2. (Mac/Linux) setting up `alias love2d=/your/love2d/install` in your shell
+3. `git clone https://github.com/xorange/firstGameEverLove2d.git`
+4. `love2d firstGameEverLove2d`
+
 ![game play](docAssets/play.gif)
 
 You control a tank, firing bullets at endlessly spawned hostile bubbles.
