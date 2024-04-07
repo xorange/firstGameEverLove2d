@@ -7,7 +7,7 @@ Idea:
 a survivor game. those similar are: Vampire Survivors, Brotato, etc.
 
 Key Concepts to achieve:
-- a main character that moves. Always stays at screen middle.
+- a main character that moves. Always stays at screen center.
 - randomly spawned enemies
   - routing is easy, always move towards player.
 - firing bullets to eliminate enemies. Basic collision detection.
