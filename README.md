@@ -10,7 +10,7 @@ GL HF.
 
 ## The Game
 
-[game play](https://github.com/xorange/firstGameEverLove2d/blob/main/docAssets/play.gif)
+![game play](docAssets/play.gif)
 
 You control a tank, firing bullets at endlessly spawned hostile bubbles.
 - Control: wasd, or arrows
